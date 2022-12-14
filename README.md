@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @effmuse
+- 👀 I’m interested in javascript and frontend development! I am excited to contribute to the open-source community
+- and learn from other developers on GitHub. I'm passionate about creating user-friendly and visually appealing web applications
+- using modern technologies and frameworks. I look forward to collaborating and swapping knowledge with others in the community!
